@@ -38,6 +38,11 @@
         .portfolio-box-caption {
           opacity: 1;
         }
+        @media screen and (max-width: 768px) {
+          .portfolio-box-caption {
+              display: none;
+          }
+        }
       }
     }
   }
