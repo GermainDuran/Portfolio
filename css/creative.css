@@ -2256,8 +2256,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #446DF6;
-  border-color: #446DF6;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-primary:hover {
@@ -2272,8 +2272,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #446DF6;
-  border-color: #446DF6;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -6205,7 +6205,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #446DF6 !important;
+  background-color: #000000 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
